@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="scoreTextSize">56sp</dimen>
+    <dimen name="textViewHorizontalMargin">70dp</dimen>
+    <dimen name="textViewVerticalMargin">15dp</dimen>
+    <dimen name="buttonFontSize">16sp</dimen>
+    <dimen name="buttonMargin_1">75dp</dimen>
+    <dimen name="buttonMargin_2">15dp</dimen>
+    <dimen name="TextFontSize">20sp</dimen>
+</resources>

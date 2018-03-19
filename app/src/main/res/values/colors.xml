@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#272725</color>
+    <color name="colorPrimaryDark">#131312</color>
+    <color name="colorAccent">#16AFD8</color>
+    <color name="mainActivityBackgroundColor">#272725</color>
+    <color name="textColorMain">#7D716A</color>
+    <color name="info">#16AFD8</color>
+    <color name="colorButtonNormal">#FF9800</color>
+    <color name="baseBasket">#410307</color>
+    <color name="yello">#DBD72B</color>
+    <color name="laker">#F2AE2C</color>
+    <color name="white">#F0F0F3</color>
+    <color name="darkBlue">#011C3E</color>
+    <color name="lightBlue">#0A498D</color>
+    <color name="lightRed">#DA1C3A</color>
+    <color name="darkRed">#A70F22</color>
+    <color name="bluishgreen">#008080</color>
+    <color name="gswBlue">#346FA8</color>
+    <color name="gswBlueDark">#1462C4</color>
+    <color name="gswYellow">#EFBB33</color>
+    <color name="violet_1">#542C8A</color>
+    <color name="violet_2">#361858</color>
+    <color name="violet_3">#29193E</color>
+    <color name="green">#43A047</color>
+    <color name="redCoke">#DF2030</color>
+    <color name="redDark">#D0000B</color>
+    <color name="nbaBlue">#046DB2</color>
+    <color name="nbaRed">#D53F52</color>
+
+
+</resources>
