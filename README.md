@@ -9,4 +9,5 @@ I've used the following
 5. Buttons
 
 Team A is Los Angeles Lakers
+
 Team B is Golden State Warriors
