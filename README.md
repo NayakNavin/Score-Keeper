@@ -8,6 +8,6 @@ I've used the following
 4. ImageViews
 5. Buttons
 
-Team A is Los Angeles Lakers
+**Team A** is Los Angeles Lakers
 
-Team B is Golden State Warriors
+**Team B** is Golden State Warriors
