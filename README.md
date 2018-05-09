@@ -1,5 +1,5 @@
 # Score-Keeper
-app based on the project Court Counter app.
+App based on the project Court Counter app.
 
 I've used the following
 1. Relative Layout
