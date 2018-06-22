@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="scoreTextSize">56sp</dimen>
-    <dimen name="textViewHorizontalMargin">70dp</dimen>
-    <dimen name="textViewVerticalMargin">15dp</dimen>
     <dimen name="buttonFontSize">16sp</dimen>
-    <dimen name="buttonMargin_1">75dp</dimen>
-    <dimen name="buttonMargin_2">15dp</dimen>
-    <dimen name="TextFontSize">20sp</dimen>
+    <dimen name="button_margin_border">70dp</dimen>
+    <dimen name="button_margin_side">16dp</dimen>
+    <dimen name="button_margin_bottom">28dp</dimen>
+    <dimen name="textFontSize">20sp</dimen>
+    <dimen name="textView_marginTop">28dp</dimen>
+    <dimen name="textView_marginBottom">28dp</dimen>
+    <dimen name="textView_margin_border">70dp</dimen>
+    <dimen name="textView_margin_side">16dp</dimen>
+    <dimen name="display_textView_margin">16dp</dimen>
+    <dimen name="imageView_margin_side">16dp</dimen>
+    <dimen name="imageView_margin">10dp</dimen>
+    <dimen name="versusMargin">40dp</dimen>
+    <dimen name="versusTextSize">60sp</dimen>
+    <dimen name="resetTextSize">25sp</dimen>
+    <dimen name="resetMargin">56dp</dimen>
+
 </resources>

@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Score Keeper</string>
+    <string name="versus_textView">Vs</string>
+    <string name="reset_button">Reset</string>
+    <string name="teamA_textView">Team A</string>
+    <string name="teamB_textView">Team B</string>
+    <string name="textView_reset">0</string>
+    <string name="three">+3 points</string>
+    <string name="two">+2 points</string>
+    <string name="foul">Foul</string>
+    <string name="logo_1">NBA Logo</string>
+    <string name="logo_2">Los Angeles Lakers Logo</string>
+    <string name="logo_3">Golden State Warriors Logo</string>
 </resources>
