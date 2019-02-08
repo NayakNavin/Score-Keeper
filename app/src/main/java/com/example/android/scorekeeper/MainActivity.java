@@ -133,6 +133,7 @@ public class MainActivity extends AppCompatActivity {
         scoreView.setText(String.valueOf(score));
     }
 
+
     /**
      * Displays the given foul for Team B.
      */
